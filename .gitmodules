@@ -1,0 +1,3 @@
+[submodule "pacman-ai-search"]
+	path = pacman-ai-search
+	url = git@github.com:rmodi6/pacman-ai-search.git
