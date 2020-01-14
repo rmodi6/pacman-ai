@@ -4,3 +4,6 @@
 [submodule "pacman-ai-multiagent"]
 	path = pacman-ai-multiagent
 	url = git@github.com:rmodi6/pacman-ai-multiagent.git
+[submodule "pacman-ai-ghostbusters"]
+	path = pacman-ai-ghostbusters
+	url = git@github.com:rmodi6/pacman-ai-ghostbusters.git
